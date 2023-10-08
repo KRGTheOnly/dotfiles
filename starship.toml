@@ -1,0 +1,13 @@
+
+format = '''
+[$directory](bold #ffffff) 
+[::](bold #ffffff)
+'''
+
+[directory]
+fish_style_pwd_dir_length = 1
+# truncation_length = 2
+# truncation_symbol = '…/'
+style = 'bold #ffffff'
+home_symbol =	'~'
+# format = '[$path]($style)[$read_only]($read_only_style) '
