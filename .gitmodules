@@ -1,3 +1,9 @@
 [submodule "helix"]
 	path = helix
 	url = https://github.com/KRGTheOnly/helix
+[submodule "fish"]
+	path = fish
+	url = https://github.com/KRGTheOnly/fish
+[submodule "zellij"]
+	path = zellij
+	url = https://github.com/KRGTheOnly/zellij
