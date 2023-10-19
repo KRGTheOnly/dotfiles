@@ -7,3 +7,9 @@
 [submodule "zellij"]
 	path = zellij
 	url = https://github.com/KRGTheOnly/zellij
+[submodule "bspwm"]
+	path = bspwm
+	url = https://github.com/KRGTheOnly/bspwm
+[submodule "sxhkd"]
+	path = sxhkd
+	url = https://github.com/KRGTheOnly/sxhkd
