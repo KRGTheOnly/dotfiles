@@ -13,3 +13,12 @@
 [submodule "sxhkd"]
 	path = sxhkd
 	url = https://github.com/KRGTheOnly/sxhkd
+[submodule "kitty"]
+	path = kitty
+	url = https://github.com/KRGTheOnly/kitty
+[submodule "lf"]
+	path = lf
+	url = https://github.com/KRGTheOnly/lf.git
+[submodule "ulauncher"]
+	path = ulauncher
+	url = https://github.com/KRGTheOnly/ulauncher.git
